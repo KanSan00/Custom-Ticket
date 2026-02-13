@@ -1,1 +1,12 @@
+# 環境変数（トークンなど機密情報）
 /.env
+
+# データベース
+tickets.db
+
+# Python
+__pycache__/
+*.pyc
+
+# ユーティリティ
+check_db.py
